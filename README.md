@@ -1,6 +1,6 @@
 # Big-Sur-Icons
 
-![icon previews](https://github.com/jonush/Big-Sur-Icons/blob/master/colorful-preview.png?raw=true)
+![icon previews](https://github.com/jonush/Big-Sur-Icons/blob/master/preveiws/colorful-preview.png?raw=true)
 
 Playful custom macOS icons for Big Sur. Currently includes icons for Figma, Spotify, iTerm, Zoom, Notion, and Slack.
 
